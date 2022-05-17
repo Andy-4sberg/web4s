@@ -1,0 +1,17 @@
+{
+  "name": "web4s",
+  "version": "1.0.0",
+  "description": "Branchless web hosting framework, supporting both HTTP and HTTPS.",
+  "main": "web4s.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "web",
+    "http",
+    "https",
+    "branchless"
+  ],
+  "author": "Andrew Forsberg",
+  "license": "ISC"
+}
